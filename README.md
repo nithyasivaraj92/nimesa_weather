@@ -15,14 +15,12 @@ WeatherApp is a Java application that fetches weather data from a weather API an
 
 4. Open a terminal or command prompt and navigate to the WeatherApp directory.
 
-5. Build the project using Maven
+5. Build the project using Maven [mvn clean install]
 
 ## Running the Application
-1. After building the project, navigate to the target directory.
+1. Run the WeatherApp class as a Java application.
 
-2. Run the WeatherApp as a Java application.
-
-3. Follow the on-screen prompts to select weather details for a specific date or exit the application.
+2. Follow the on-screen prompts to select weather details for a specific date or exit the application.
 
 ## API Endpoint
 The WeatherApp uses the OpenWeatherMap API to fetch weather data. 
